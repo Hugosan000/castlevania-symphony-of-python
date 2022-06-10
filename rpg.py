@@ -1,9 +1,4 @@
-# print -< função que escreve na tela, quando chamada
- 
- # print ('Hello, World')
 
-
-#input <- Escreve uma mensagem e espera que você escreva.
 
 from ast import Break
 from mimetypes import init
